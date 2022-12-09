@@ -1,0 +1,1 @@
+SELECT Country, StudentPop FROM Students ORDER BY StudentPop DESC;

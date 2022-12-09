@@ -1,0 +1,7 @@
+Create table Enrollments;
+Create Column StudentId;
+
+
+Create table Students;
+Create Column StudentId, Country, StudentPop;
+Add a lot of rows...
